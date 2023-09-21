@@ -1,6 +1,5 @@
 # This Python file uses the following encoding: utf-8
 import sys
-from typing import Optional, Union
 
 from PySide2.QtWidgets import QApplication, QWidget, QFileSystemModel
 from PySide2.QtCore import QDir
@@ -10,7 +9,7 @@ from PySide2.QtCore import QDir
 from ui_form import Ui_Widget
 
 class Widget(QWidget):
-    def __init__(self, parent:Optional[QWidget]=None):
+    def __init__(self, parent=None):
         print(type(parent))
         super().__init__(parent)
         self.ui = Ui_Widget()
