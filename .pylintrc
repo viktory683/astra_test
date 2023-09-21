@@ -1,0 +1,7 @@
+[MASTER]
+# Specify a configuration file.
+rcfile=.pylintrc
+
+[PYLINT]
+# Set the minimum Python version to 3.5
+py-version=3.5
