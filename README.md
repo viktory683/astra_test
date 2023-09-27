@@ -88,7 +88,7 @@ python3 /path/to/project/directory/widget.py
 
 Секция `Download > Binary Package`
 
-### Python (`3.11.5`)
+### Python `3.11.5`
 ### PySide2 `5.13.2`
 
 #### Не работает
