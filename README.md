@@ -48,7 +48,7 @@
 ## Запуск
 В случае использования виртуального окружения
 ```bash
-/path/to/venv/bin/python3 /path/to/prroject/directory/widget.py
+/path/to/venv/bin/python3 /path/to/project/directory/widget.py
 ```
 
 При установке зависимостей в глобальном окружении
