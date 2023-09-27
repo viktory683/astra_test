@@ -1,9 +1,9 @@
 # astra_test
 
-![UI фото](image.png)
-![UI расширенный](image-3.png)
-![UI фото скрытые](image-1.png)
-![UI фото скрытые фильтр](image-2.png)
+![UI фото](previews/image.png)
+![UI расширенный](previews/image-3.png)
+![UI фото скрытые](previews/image-1.png)
+![UI фото скрытые фильтр](previews/image-2.png)
 
 ## Содержание
 - [astra\_test](#astra_test)
